@@ -20,8 +20,6 @@ You can chat with it or interactively draw generated phase diagrams directly in 
   Your browser does not support the video tag.
 </video>
 
-[Our preprint on arXiv](https://www.arxiv.org/abs/2507.22558)
-
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/65096d0e623330a3a51cf6aa/zHPBs16jPVdkaeZCBCR1b.png)
 
 Data used to train the model are [here](https://huggingface.co/datasets/Playingyoyo/aLLoyM-dataset).
@@ -131,7 +129,7 @@ share effective strategies.
 Apache 2.0
 
 ## Citation
-
+[References](https://www.arxiv.org/abs/2507.22558)
 If you use this model, please cite:
 
 ```bibtex
